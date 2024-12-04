@@ -1,2 +1,2 @@
 # MAT135-Notes
-Note dump for MAT135. Feel free to use for studying and filling gaps in your own notes!
+Just a note dump of all the hand written notes Ive taken during my time in MAT135. Feel free to use these notes as study guides and to fill gaps in your own notes!
